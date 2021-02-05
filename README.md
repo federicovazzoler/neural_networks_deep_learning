@@ -1,1 +1,4 @@
-# neural_networks_deep_learning
+# neural networks & deep learning
+Link to the course:
+
+https://www.coursera.org/learn/neural-networks-deep-learning
